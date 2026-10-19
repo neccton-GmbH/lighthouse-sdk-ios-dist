@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LighthouseSDK",
-            url: "https://github.com/neccton-GmbH/lighthouse-sdk-ios-dist/releases/download/0.1.4/LighthouseSDK.xcframework.zip",
-            checksum: "333fded92b3613554b2f48c1f22d0a5eb17ff0a1b0ff304ec40e00222e71ae2a"
+            url: "https://github.com/neccton-GmbH/lighthouse-sdk-ios-dist/releases/download/0.2.0/LighthouseSDK.xcframework.zip",
+            checksum: "fda828c2574381437c1e5b7c5a9716dc8e6acb5d64372361d7cbcd5ce7eb5a8a"
         )
     ]
 )
